@@ -16,7 +16,7 @@ public class WebDriverWrapper {
 
 	@Parameters({"browser"})
 	@BeforeMethod
-	public void setUp(@Optional("ch") String browserName) {
+	public void setUp(@Optional("ff") String browserName) {
 
 		System.setProperty("webdriver.chrome.driver", "driver/chromedriver");
 		System.setProperty("webdriver.gecko.driver", "driver/geckodriver");

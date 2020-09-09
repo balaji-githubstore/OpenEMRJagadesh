@@ -12,6 +12,7 @@ public class HomePage {
 	private static By errorLocator= By.xpath("//div[contains(text(),'Invalid')]");
 	
 	
+	
 	public static void sendUsername(WebDriver driver, String username) 
 	{
 		driver.findElement(usernameLocator).sendKeys(username);
