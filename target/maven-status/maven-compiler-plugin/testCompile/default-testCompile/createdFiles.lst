@@ -1,0 +1,8 @@
+com/slk/test/LoginTest.class
+com/slk/test/DemoTest.class
+com/slk/test/AddPatientTest.class
+com/slk/utilities/ExcelUtils.class
+com/slk/pages/DashboardPage.class
+com/slk/base/WebDriverWrapper.class
+com/slk/pages/HomePage.class
+com/slk/test/SearchPatientTest.class

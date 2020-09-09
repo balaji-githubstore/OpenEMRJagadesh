@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51646" started-at="2020-09-07T21:17:23 IST" finished-at="2020-09-07T21:18:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51646" started-at="2020-09-07T21:17:23 IST" finished-at="2020-09-07T21:18:14 IST">
+      <class name="com.slk.test.DemoTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.slk.test.DemoTest@7e6f74c]" name="setUp" is-config="true" duration-ms="8019" started-at="2020-09-07T21:17:38 IST" finished-at="2020-09-07T21:17:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewPatientTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.slk.test.DemoTest@7e6f74c]" name="createNewPatientTest" duration-ms="7559" started-at="2020-09-07T21:17:46 IST" data-provider="createNewPatientData" finished-at="2020-09-07T21:17:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[English (Indian)]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[bala]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[dina]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[bala]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewPatientTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.slk.test.DemoTest@7e6f74c]" name="tearDown" is-config="true" duration-ms="2702" started-at="2020-09-07T21:17:54 IST" finished-at="2020-09-07T21:17:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.slk.test.DemoTest@7e6f74c]" name="setUp" is-config="true" duration-ms="6194" started-at="2020-09-07T21:17:56 IST" finished-at="2020-09-07T21:18:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewPatientTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.slk.test.DemoTest@7e6f74c]" name="createNewPatientTest" duration-ms="9195" started-at="2020-09-07T21:18:03 IST" data-provider="createNewPatientData" finished-at="2020-09-07T21:18:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[physician]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[physician]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[English (Indian)]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[bala]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[dina]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[OpenEMR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewPatientTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.slk.test.DemoTest@7e6f74c]" name="tearDown" is-config="true" duration-ms="2525" started-at="2020-09-07T21:18:12 IST" finished-at="2020-09-07T21:18:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.slk.test.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
